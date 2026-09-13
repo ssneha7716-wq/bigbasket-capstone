@@ -7,7 +7,7 @@ order export.
 
 
 
-**Live Tableau Public dashboard:** https://public.tableau.com/app/profile/sneha.rani5088/viz/BigBasketCategoryPerformanceDiagnostic\_17892538939280/Dashboard1
+**Live Tableau Public dashboard:** https://public.tableau.com/app/profile/sneha.rani5088/viz/BigBasketCategoryPerformanceDiagnostic_17892538939280/Dashboard1
 
 
 
